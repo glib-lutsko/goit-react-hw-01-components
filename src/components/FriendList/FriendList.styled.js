@@ -4,6 +4,7 @@ export const FriendsList = styled.ul`
   margin-top: 70px;
   list-style: none;
 `;
+
 export const IsOnline = styled.span`
   display: inline-block;
   width: 8px;
